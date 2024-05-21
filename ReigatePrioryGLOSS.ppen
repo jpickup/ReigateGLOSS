@@ -12,7 +12,7 @@
     <ocad overprint-colors="false" />
   </event>
   <control id="1" kind="start">
-    <location x="53.58419" y="-23.26854" />
+    <location x="53.8583832" y="-23.1771412" />
     <description box="D" iof-2004-ref="4.9" />
   </control>
   <control id="2" kind="finish">
@@ -20,156 +20,182 @@
     <description box="all" iof-2004-ref="14.3" />
   </control>
   <control id="3" kind="normal">
-    <code>31</code>
-    <location x="93.5656357" y="-54.8471832" />
-    <description box="D" iof-2004-ref="4.7" />
+    <code>101</code>
+    <location x="98.0627747" y="-59.61047" />
+    <description box="D" iof-2004-ref="5.2" />
+    <description box="E" iof-2004-ref="4.7" />
   </control>
   <control id="4" kind="normal">
-    <code>32</code>
-    <location x="74.4470139" y="-78.318" />
-    <description box="D" iof-2004-ref="1.10" />
+    <code>102</code>
+    <location x="81.3932953" y="-71.92011" />
+    <description box="D" iof-2004-ref="5.2" />
+    <description box="F" iof-2004-ref="10.2" />
   </control>
   <control id="5" kind="normal">
-    <code>33</code>
+    <code>103</code>
     <location x="35.1217575" y="-113.912819" />
     <description box="D" iof-2004-ref="1.13" />
   </control>
   <control id="6" kind="normal">
-    <code>34</code>
-    <location x="35.7434921" y="-75.5201645" />
+    <code>104</code>
+    <location x="35.5438766" y="-75.387085" />
     <description box="D" iof-2004-ref="4.9" />
   </control>
   <control id="7" kind="normal">
-    <code>35</code>
+    <code>105</code>
     <location x="20.044487" y="-61.06462" />
     <description box="D" iof-2004-ref="1.4" />
     <description box="G" iof-2004-ref="11.13" />
   </control>
   <control id="8" kind="normal">
-    <code>36</code>
-    <location x="-8.244835" y="-111.581276" />
+    <code>106</code>
+    <location x="-8.377911" y="-111.315117" />
     <description box="D" iof-2004-ref="6.1" />
   </control>
   <control id="9" kind="normal">
-    <code>37</code>
-    <location x="36.2098" y="-135.5184" />
+    <code>107</code>
+    <location x="35.81057" y="-135.584946" />
     <description box="D" iof-2004-ref="4.10" />
   </control>
   <control id="10" kind="normal">
-    <code>38</code>
-    <location x="9.163979" y="-124.793327" />
+    <code>108</code>
+    <location x="8.964363" y="-124.726784" />
     <description box="D" iof-2004-ref="1.8" />
     <description box="G" iof-2004-ref="11.10" />
   </control>
   <control id="11" kind="normal">
-    <code>39</code>
+    <code>109</code>
     <location x="-50.9897079" y="-130.233582" />
+    <description box="C" iof-2004-ref="0.5" />
     <description box="D" iof-2004-ref="1.10" />
-    <description box="E" iof-2004-ref="1.10" />
   </control>
   <control id="12" kind="normal">
-    <code>40</code>
-    <location x="-101.040047" y="-123.083534" />
+    <code>110</code>
+    <location x="-101.239662" y="-123.150078" />
     <description box="D" iof-2004-ref="4.9" />
   </control>
   <control id="13" kind="normal">
-    <code>41</code>
-    <location x="-90.0406952" y="-114.349648" />
-    <description box="D" iof-2004-ref="1.10" />
+    <code>111</code>
+    <location x="-90.50647" y="-114.482727" />
+    <description box="D" iof-2004-ref="1.12" />
   </control>
   <control id="14" kind="normal">
-    <code>42</code>
-    <location x="-75.704" y="-87.33329" />
+    <code>112</code>
+    <location x="-75.78402" y="-87.25328" />
     <description box="D" iof-2004-ref="4.10" />
   </control>
   <control id="15" kind="normal">
-    <code>43</code>
-    <location x="-21.43435" y="-91.61151" />
-    <description box="D" iof-2004-ref="4.7" />
-  </control>
-  <control id="16" kind="normal">
-    <code>44</code>
-    <location x="20.044487" y="-19.8741074" />
-    <description box="D" iof-2004-ref="4.7" />
-  </control>
-  <control id="17" kind="normal">
-    <code>45</code>
-    <location x="-54.4092941" y="-51.893898" />
-    <description box="D" iof-2004-ref="4.9" />
-  </control>
-  <control id="18" kind="normal">
-    <code>46</code>
-    <location x="-5.60244" y="-29.6665726" />
-    <description box="D" iof-2004-ref="4.9" />
-  </control>
-  <control id="19" kind="normal">
-    <code>47</code>
-    <location x="43.5716553" y="-117.557976" />
-    <description box="D" iof-2004-ref="6.1" />
-  </control>
-  <control id="20" kind="normal">
-    <code>48</code>
-    <location x="84.29629" y="-26.09866" />
-    <description box="D" iof-2004-ref="4.9" />
-  </control>
-  <control id="21" kind="normal">
-    <code>49</code>
-    <location x="101.27282" y="-62.83479" />
+    <code>113</code>
+    <location x="-21.7670441" y="-91.6780548" />
     <description box="D" iof-2004-ref="5.2" />
     <description box="F" iof-2004-ref="10.2" />
   </control>
+  <control id="17" kind="normal">
+    <code>115</code>
+    <location x="-54.4092941" y="-51.7338638" />
+    <description box="D" iof-2004-ref="4.9" />
+  </control>
+  <control id="18" kind="normal">
+    <code>116</code>
+    <location x="-9.670937" y="-31.8333511" />
+    <description box="D" iof-2004-ref="4.9" />
+  </control>
+  <control id="19" kind="normal">
+    <code>117</code>
+    <location x="42.9728" y="-117.557976" />
+    <description box="D" iof-2004-ref="6.1" />
+  </control>
+  <control id="20" kind="normal">
+    <code>118</code>
+    <location x="85.62243" y="-21.9752" />
+    <description box="C" iof-2004-ref="0.1W" />
+    <description box="D" iof-2004-ref="6.1" />
+  </control>
   <control id="28" kind="normal">
-    <code>50</code>
+    <code>120</code>
     <location x="42.1328545" y="-27.768486" />
     <description box="D" iof-2004-ref="6.2" />
   </control>
   <control id="23" kind="normal">
-    <code>51</code>
-    <location x="53.5257034" y="-55.05303" />
-    <description box="D" iof-2004-ref="1.10" />
+    <code>121</code>
+    <location x="53.19301" y="-54.85341" />
+    <description box="D" iof-2004-ref="5.15" />
   </control>
   <control id="35" kind="normal">
-    <code>55</code>
-    <location x="-106.960648" y="-86.48906" />
+    <code>125</code>
+    <location x="-107.280716" y="-86.40904" />
     <description box="D" iof-2004-ref="5.2" />
     <description box="F" iof-2004-ref="10.1" />
   </control>
   <control id="33" kind="normal">
-    <code>52</code>
+    <code>122</code>
     <location x="-8.714866" y="-19.61301" />
     <description box="D" iof-2004-ref="5.2" />
     <description box="F" iof-2004-ref="10.2" />
   </control>
   <control id="26" kind="normal">
-    <code>54</code>
-    <location x="37.9586754" y="-47.9455223" />
+    <code>124</code>
+    <location x="32.600193" y="-50.5115356" />
     <description box="D" iof-2004-ref="4.7" />
   </control>
   <control id="34" kind="normal">
-    <code>53</code>
+    <code>123</code>
     <location x="2.83200884" y="0.8827051" />
     <description box="D" iof-2004-ref="4.10" />
     <description box="E" iof-2004-ref="4.7" />
   </control>
   <control id="29" kind="normal">
-    <code>56</code>
-    <location x="-26.05164" y="-59.6342926" />
+    <code>126</code>
+    <location x="-25.8520241" y="-59.6342926" />
     <description box="D" iof-2004-ref="6.1" />
   </control>
   <control id="30" kind="normal">
-    <code>57</code>
-    <location x="-57.6391335" y="-87.04723" />
+    <code>127</code>
+    <location x="-57.8387566" y="-86.84761" />
     <description box="D" iof-2004-ref="1.13" />
   </control>
   <control id="31" kind="normal">
-    <code>58</code>
-    <location x="-24.7992744" y="-121.417778" />
+    <code>128</code>
+    <location x="-24.6661949" y="-121.484314" />
     <description box="D" iof-2004-ref="1.10" />
   </control>
   <control id="32" kind="normal">
-    <code>59</code>
-    <location x="28.0784874" y="-93.4482346" />
+    <code>129</code>
+    <location x="27.9454079" y="-93.3817" />
     <description box="D" iof-2004-ref="1.10" />
+  </control>
+  <control id="36" kind="normal">
+    <code>130</code>
+    <location x="33.4451561" y="-25.1695728" />
+    <description box="D" iof-2004-ref="4.6" />
+    <description box="G" iof-2004-ref="11.5SW" />
+  </control>
+  <control id="37" kind="normal">
+    <code>114</code>
+    <location x="85.08939" y="-89.4687958" />
+    <description box="D" iof-2004-ref="5.2" />
+    <description box="F" iof-2004-ref="10.2" />
+  </control>
+  <control id="38" kind="normal">
+    <code>119</code>
+    <location x="60.7406921" y="-130.98822" />
+    <description box="D" iof-2004-ref="5.2" />
+    <description box="F" iof-2004-ref="10.1" />
+  </control>
+  <control id="39" kind="normal">
+    <code>131</code>
+    <location x="56.64463" y="-93.04382" />
+    <description box="D" iof-2004-ref="4.1" />
+  </control>
+  <control id="41" kind="normal">
+    <code>132</code>
+    <location x="78.0947647" y="-46.5684967" />
+    <description box="D" iof-2004-ref="6.1" />
+  </control>
+  <control id="42" kind="normal">
+    <code>133</code>
+    <location x="-56.8609924" y="-120.977516" />
+    <description box="D" iof-2004-ref="6.1" />
   </control>
   <course id="1" kind="normal" order="1">
     <name>GLOSS</name>
@@ -179,9 +205,9 @@
     <options print-scale="5000" description-kind="symbols" />
   </course>
   <course id="2" kind="normal" order="2">
-    <name>GLOSS+Extension</name>
+    <name>GLOSS Extension</name>
     <labels label-kind="sequence" />
-    <first course-control="18" />
+    <first course-control="45" control-number="18" />
     <print-area automatic="true" restrict-to-page-size="true" left="-166.947052" top="44.30899" right="115.754944" bottom="-151.525009" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
     <options print-scale="5000" description-kind="symbols" />
   </course>
@@ -189,8 +215,8 @@
     <name>Yellow</name>
     <labels label-kind="sequence" />
     <first course-control="35" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-166.947052" top="49.9849854" right="115.754944" bottom="-145.849014" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
-    <options print-scale="5000" description-kind="symbols" />
+    <print-area automatic="true" restrict-to-page-size="true" left="-166.947052" top="44.30899" right="115.754944" bottom="-151.525009" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
+    <options print-scale="5000" description-kind="text" />
   </course>
   <course-control id="1" control="1">
     <next course-control="3" />
@@ -239,55 +265,31 @@
     <next course-control="17" />
   </course-control>
   <course-control id="17" control="7">
+    <next course-control="64" />
+  </course-control>
+  <course-control id="57" control="37">
+    <next course-control="58" />
+  </course-control>
+  <course-control id="65" control="23">
+    <next course-control="66" />
+  </course-control>
+  <course-control id="64" control="36">
     <next course-control="2" />
   </course-control>
-  <course-control id="18" control="1">
-    <next course-control="19" />
+  <course-control id="62" control="42">
+    <next course-control="48" />
   </course-control>
-  <course-control id="19" control="3">
-    <next course-control="20" />
+  <course-control id="61" control="41">
+    <next course-control="34" />
   </course-control>
-  <course-control id="20" control="4">
-    <next course-control="21" />
+  <course-control id="66" control="34">
+    <next course-control="46" />
   </course-control>
-  <course-control id="21" control="6">
-    <next course-control="22" />
+  <course-control id="59" control="39">
+    <next course-control="40" />
   </course-control>
-  <course-control id="22" control="19">
-    <next course-control="23" />
-  </course-control>
-  <course-control id="23" control="9">
-    <next course-control="24" />
-  </course-control>
-  <course-control id="24" control="10">
-    <next course-control="25" />
-  </course-control>
-  <course-control id="25" control="8">
-    <next course-control="26" />
-  </course-control>
-  <course-control id="26" control="15">
-    <next course-control="27" />
-  </course-control>
-  <course-control id="27" control="11">
-    <next course-control="28" />
-  </course-control>
-  <course-control id="28" control="13">
-    <next course-control="29" />
-  </course-control>
-  <course-control id="29" control="12">
-    <next course-control="30" />
-  </course-control>
-  <course-control id="30" control="14">
-    <next course-control="31" />
-  </course-control>
-  <course-control id="31" control="17">
-    <next course-control="32" />
-  </course-control>
-  <course-control id="32" control="18">
-    <next course-control="33" />
-  </course-control>
-  <course-control id="33" control="7">
-    <next course-control="45" />
+  <course-control id="58" control="38">
+    <next course-control="59" />
   </course-control>
   <course-control id="34" control="2" />
   <course-control id="35" control="1">
@@ -297,17 +299,14 @@
   <course-control id="37" control="20">
     <next course-control="55" />
   </course-control>
-  <course-control id="38" control="21">
-    <next course-control="40" />
-  </course-control>
   <course-control id="45" control="28">
-    <next course-control="46" />
+    <next course-control="65" />
   </course-control>
   <course-control id="40" control="23">
     <next course-control="43" />
   </course-control>
   <course-control id="52" control="33">
-    <next course-control="53" />
+    <next course-control="56" />
   </course-control>
   <course-control id="50" control="18">
     <next course-control="52" />
@@ -315,33 +314,30 @@
   <course-control id="43" control="26">
     <next course-control="50" />
   </course-control>
-  <course-control id="51" control="16">
-    <next course-control="36" />
-  </course-control>
   <course-control id="46" control="29">
     <next course-control="47" />
   </course-control>
   <course-control id="47" control="30">
-    <next course-control="48" />
+    <next course-control="62" />
   </course-control>
   <course-control id="48" control="31">
     <next course-control="49" />
   </course-control>
   <course-control id="49" control="32">
-    <next course-control="34" />
-  </course-control>
-  <course-control id="53" control="34">
-    <next course-control="51" />
+    <next course-control="61" />
   </course-control>
   <course-control id="54" control="35">
     <next course-control="14" />
   </course-control>
   <course-control id="55" control="3">
-    <next course-control="38" />
+    <next course-control="57" />
+  </course-control>
+  <course-control id="56" control="36">
+    <next course-control="36" />
   </course-control>
   <leg id="1" start-control="8" end-control="15">
     <gaps>
-      <gap start="8.205335" length="7.68061066" />
+      <gap start="7.909261" length="7.679933" />
     </gaps>
   </leg>
   <leg id="3" start-control="4" end-control="6">
@@ -352,6 +348,21 @@
   <leg id="4" start-control="31" end-control="32">
     <bends>
       <location x="-0.541519165" y="-115.12957" />
+    </bends>
+  </leg>
+  <leg id="5" start-control="26" end-control="18">
+    <bends>
+      <location x="-0.6431217" y="-45.08682" />
+    </bends>
+  </leg>
+  <leg id="6" start-control="18" end-control="33">
+    <bends>
+      <location x="-14.0786819" y="-23.9737949" />
+    </bends>
+  </leg>
+  <leg id="7" start-control="38" end-control="39">
+    <bends>
+      <location x="55.8410454" y="-117.839943" />
     </bends>
   </leg>
 </course-scribe-event>
