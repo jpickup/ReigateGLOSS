@@ -21,9 +21,9 @@
   </control>
   <control id="3" kind="normal">
     <code>101</code>
-    <location x="98.0627747" y="-59.61047" />
-    <description box="D" iof-2004-ref="5.2" />
-    <description box="E" iof-2004-ref="4.7" />
+    <location x="102.6841" y="-65.894" />
+    <description box="D" iof-2004-ref="4.5" />
+    <description box="G" iof-2004-ref="11.1N" />
   </control>
   <control id="4" kind="normal">
     <code>102</code>
@@ -97,8 +97,9 @@
   </control>
   <control id="18" kind="normal">
     <code>116</code>
-    <location x="-9.670937" y="-31.8333511" />
-    <description box="D" iof-2004-ref="4.9" />
+    <location x="-2.44564056" y="-43.5433121" />
+    <description box="D" iof-2004-ref="4.8" />
+    <description box="G" iof-2004-ref="11.1W" />
   </control>
   <control id="19" kind="normal">
     <code>117</code>
@@ -197,6 +198,15 @@
     <location x="-56.8609924" y="-120.977516" />
     <description box="D" iof-2004-ref="6.1" />
   </control>
+  <control id="43" kind="normal">
+    <code>31</code>
+    <location x="98.0486145" y="-59.7310867" />
+    <description box="D" iof-2004-ref="4.7" />
+  </control>
+  <control id="44" kind="normal">
+    <code>32</code>
+    <location x="-9.670937" y="-31.3350544" />
+  </control>
   <course id="1" kind="normal" order="1">
     <name>GLOSS</name>
     <labels label-kind="sequence" />
@@ -261,7 +271,7 @@
   <course-control id="15" control="17">
     <next course-control="16" />
   </course-control>
-  <course-control id="16" control="18">
+  <course-control id="16" control="44">
     <next course-control="17" />
   </course-control>
   <course-control id="17" control="7">
@@ -297,7 +307,7 @@
   </course-control>
   <course-control id="36" control="2" />
   <course-control id="37" control="20">
-    <next course-control="55" />
+    <next course-control="67" />
   </course-control>
   <course-control id="45" control="28">
     <next course-control="65" />
@@ -335,6 +345,9 @@
   <course-control id="56" control="36">
     <next course-control="36" />
   </course-control>
+  <course-control id="67" control="43">
+    <next course-control="55" />
+  </course-control>
   <leg id="1" start-control="8" end-control="15">
     <gaps>
       <gap start="7.909261" length="7.679933" />
@@ -350,19 +363,46 @@
       <location x="-0.541519165" y="-115.12957" />
     </bends>
   </leg>
-  <leg id="5" start-control="26" end-control="18">
-    <bends>
-      <location x="-0.6431217" y="-45.08682" />
-    </bends>
-  </leg>
-  <leg id="6" start-control="18" end-control="33">
-    <bends>
-      <location x="-14.0786819" y="-23.9737949" />
-    </bends>
-  </leg>
   <leg id="7" start-control="38" end-control="39">
     <bends>
       <location x="55.8410454" y="-117.839943" />
     </bends>
   </leg>
+  <leg id="8" start-control="43" end-control="3">
+    <bends>
+      <location x="101.547241" y="-62.8935242" />
+    </bends>
+  </leg>
+  <special-object id="1" kind="descriptions">
+    <appearance columns="2" />
+    <location x="-118.573044" y="-66.93448" />
+    <location x="-111.405785" y="-66.93448" />
+    <courses>
+      <course course="3" />
+    </courses>
+  </special-object>
+  <special-object id="2" kind="descriptions">
+    <appearance columns="2" />
+    <location x="-166.667267" y="1.12666321" />
+    <location x="-161.190659" y="1.12666321" />
+    <courses>
+      <course course="1" />
+    </courses>
+  </special-object>
+  <special-object id="3" kind="white-out">
+    <location x="62.3442841" y="-140.378" />
+    <location x="105.229752" y="-138.641754" />
+    <location x="104.188" y="-146.45488" />
+    <location x="90.99248" y="-145.934" />
+    <location x="63.5596771" y="-146.975769" />
+    <location x="62.17067" y="-141.419754" />
+    <courses all="true" />
+  </special-object>
+  <special-object id="4" kind="descriptions">
+    <location x="-166.8411" y="1.64750671" />
+    <location x="-160.2572" y="1.64750671" />
+    <courses>
+      <course course="2" />
+    </courses>
+  </special-object>
 </course-scribe-event>
