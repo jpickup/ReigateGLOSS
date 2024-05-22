@@ -199,13 +199,15 @@
     <description box="D" iof-2004-ref="6.1" />
   </control>
   <control id="43" kind="normal">
-    <code>31</code>
+    <code>134</code>
     <location x="98.0486145" y="-59.7310867" />
     <description box="D" iof-2004-ref="4.7" />
   </control>
   <control id="44" kind="normal">
-    <code>32</code>
+    <code>135</code>
     <location x="-9.670937" y="-31.3350544" />
+    <description box="D" iof-2004-ref="5.2" />
+    <description box="F" iof-2004-ref="10.2" />
   </control>
   <course id="1" kind="normal" order="1">
     <name>GLOSS</name>
