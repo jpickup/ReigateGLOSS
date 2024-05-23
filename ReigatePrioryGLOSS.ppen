@@ -321,7 +321,7 @@
     <next course-control="56" />
   </course-control>
   <course-control id="50" control="18">
-    <next course-control="52" />
+    <next course-control="68" />
   </course-control>
   <course-control id="43" control="26">
     <next course-control="50" />
@@ -350,6 +350,9 @@
   <course-control id="67" control="43">
     <next course-control="55" />
   </course-control>
+  <course-control id="68" control="44">
+    <next course-control="52" />
+  </course-control>
   <leg id="1" start-control="8" end-control="15">
     <gaps>
       <gap start="7.909261" length="7.679933" />
@@ -363,11 +366,6 @@
   <leg id="4" start-control="31" end-control="32">
     <bends>
       <location x="-0.541519165" y="-115.12957" />
-    </bends>
-  </leg>
-  <leg id="7" start-control="38" end-control="39">
-    <bends>
-      <location x="55.8410454" y="-117.839943" />
     </bends>
   </leg>
   <leg id="8" start-control="43" end-control="3">
