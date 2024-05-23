@@ -1,6 +1,6 @@
 ﻿<course-scribe-event>
   <event id="1">
-    <title>ReigatePrioiryGLOSS-2024</title>
+    <title>Reigate Priory GLOSS 2024</title>
     <map kind="OCAD" scale="5000" ignore-missing-fonts="false" absolute-path="Y:\Reigate Priory GLOSS 2024\Reigate Priory Park 220131 Rev F .ocd">Reigate Priory Park 220131 Rev F .ocd</map>
     <standards map="2017" description="2018" />
     <all-controls print-scale="5000" description-kind="symbols" />
