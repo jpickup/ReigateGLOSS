@@ -213,22 +213,22 @@
     <name>GLOSS</name>
     <labels label-kind="sequence" />
     <first course-control="1" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-166.947052" top="44.30899" right="115.754944" bottom="-151.525009" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
-    <options print-scale="5000" description-kind="symbols" />
+    <print-area automatic="true" restrict-to-page-size="true" left="-169.568161" top="44.30899" right="113.133835" bottom="-151.525009" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
+    <options print-scale="5000" climb="160" description-kind="symbols" />
   </course>
   <course id="2" kind="normal" order="2">
     <name>GLOSS Extension</name>
     <labels label-kind="sequence" />
     <first course-control="45" control-number="18" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-166.947052" top="44.30899" right="115.754944" bottom="-151.525009" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
-    <options print-scale="5000" description-kind="symbols" />
+    <print-area automatic="true" restrict-to-page-size="true" left="-180.335815" top="44.30899" right="102.36618" bottom="-151.525009" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
+    <options print-scale="5000" climb="60" description-kind="symbols" />
   </course>
   <course id="3" kind="normal" order="3">
     <name>Yellow</name>
     <labels label-kind="sequence" />
     <first course-control="35" />
     <print-area automatic="true" restrict-to-page-size="true" left="-166.947052" top="44.30899" right="115.754944" bottom="-151.525009" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
-    <options print-scale="5000" description-kind="text" />
+    <options print-scale="5000" climb="45" description-kind="text" />
   </course>
   <course-control id="1" control="1">
     <next course-control="3" />
@@ -375,16 +375,15 @@
   </leg>
   <special-object id="1" kind="descriptions">
     <appearance columns="2" />
-    <location x="-118.573044" y="-66.93448" />
-    <location x="-111.405785" y="-66.93448" />
+    <location x="-122.641525" y="-73.63551" />
+    <location x="-115.474266" y="-73.63551" />
     <courses>
       <course course="3" />
     </courses>
   </special-object>
   <special-object id="2" kind="descriptions">
-    <appearance columns="2" />
-    <location x="-166.667267" y="1.12666321" />
-    <location x="-161.190659" y="1.12666321" />
+    <location x="-168.1032" y="21.4691162" />
+    <location x="-162.553268" y="21.4691162" />
     <courses>
       <course course="1" />
     </courses>
@@ -399,8 +398,8 @@
     <courses all="true" />
   </special-object>
   <special-object id="4" kind="descriptions">
-    <location x="-166.8411" y="1.64750671" />
-    <location x="-160.2572" y="1.64750671" />
+    <location x="-167.798386" y="16.9641724" />
+    <location x="-161.979385" y="16.9641724" />
     <courses>
       <course course="2" />
     </courses>
