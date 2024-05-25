@@ -15,6 +15,7 @@
     <location x="53.8583832" y="-23.1771412" />
     <description box="D" iof-2004-ref="4.9" />
     <description box="E" iof-2004-ref="8.10" />
+    <description box="G" iof-2004-ref="11.1W" />
   </control>
   <control id="2" kind="finish">
     <location x="42.0937729" y="-27.6459045" />
@@ -97,6 +98,7 @@
     <location x="-54.4092941" y="-51.7338638" />
     <description box="D" iof-2004-ref="4.9" />
     <description box="E" iof-2004-ref="8.10" />
+    <description box="G" iof-2004-ref="11.1N" />
   </control>
   <control id="18" kind="normal">
     <code>116</code>
