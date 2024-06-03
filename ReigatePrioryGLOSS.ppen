@@ -58,7 +58,6 @@
     <code>107</code>
     <location x="35.81057" y="-135.584946" />
     <description box="D" iof-2004-ref="4.10" />
-    <description box="G" iof-2004-ref="11.13" />
   </control>
   <control id="10" kind="normal">
     <code>108</code>
@@ -145,6 +144,7 @@
     <code>124</code>
     <location x="32.600193" y="-50.5115356" />
     <description box="D" iof-2004-ref="4.7" />
+    <description box="G" iof-2004-ref="11.2SW" />
   </control>
   <control id="34" kind="normal">
     <code>123</code>
@@ -189,8 +189,8 @@
   <control id="38" kind="normal">
     <code>119</code>
     <location x="58.7402725" y="-127.467484" />
-    <description box="D" iof-2004-ref="5.2" />
-    <description box="E" iof-2004-ref="5.2" />
+    <description box="D" iof-2004-ref="6.1" />
+    <description box="F">Bench</description>
   </control>
   <control id="39" kind="normal">
     <code>131</code>
@@ -213,6 +213,8 @@
     <code>134</code>
     <location x="98.0486145" y="-59.7310867" />
     <description box="D" iof-2004-ref="4.7" />
+    <description box="E" iof-2004-ref="5.2" />
+    <description box="F" iof-2004-ref="10.1" />
   </control>
   <control id="44" kind="normal">
     <code>135</code>
@@ -225,14 +227,14 @@
     <name>GLOSS</name>
     <labels label-kind="sequence" />
     <first course-control="1" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-169.568161" top="44.30899" right="113.133835" bottom="-151.525009" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
+    <print-area automatic="true" restrict-to-page-size="true" left="-170.286133" top="44.30899" right="112.415863" bottom="-151.525009" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
     <options print-scale="5000" climb="160" description-kind="symbols" />
   </course>
   <course id="2" kind="normal" order="2">
     <name>GLOSS Extension</name>
     <labels label-kind="sequence" />
     <first course-control="45" control-number="18" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-180.335815" top="44.30899" right="102.36618" bottom="-151.525009" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
+    <print-area automatic="true" restrict-to-page-size="true" left="-180.814468" top="44.30899" right="101.887527" bottom="-151.525009" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
     <options print-scale="5000" climb="60" description-kind="symbols" />
   </course>
   <course id="3" kind="normal" order="3">
@@ -268,10 +270,10 @@
     <next course-control="10" />
   </course-control>
   <course-control id="10" control="15">
-    <next course-control="11" />
+    <next course-control="69" />
   </course-control>
-  <course-control id="11" control="11">
-    <next course-control="12" />
+  <course-control id="71" control="7">
+    <next course-control="66" />
   </course-control>
   <course-control id="12" control="13">
     <next course-control="13" />
@@ -295,12 +297,12 @@
     <next course-control="58" />
   </course-control>
   <course-control id="65" control="23">
-    <next course-control="66" />
+    <next course-control="71" />
   </course-control>
   <course-control id="64" control="36">
     <next course-control="2" />
   </course-control>
-  <course-control id="62" control="42">
+  <course-control id="70" control="11">
     <next course-control="48" />
   </course-control>
   <course-control id="61" control="41">
@@ -342,7 +344,7 @@
     <next course-control="47" />
   </course-control>
   <course-control id="47" control="30">
-    <next course-control="62" />
+    <next course-control="70" />
   </course-control>
   <course-control id="48" control="31">
     <next course-control="49" />
@@ -364,6 +366,9 @@
   </course-control>
   <course-control id="68" control="44">
     <next course-control="52" />
+  </course-control>
+  <course-control id="69" control="42">
+    <next course-control="12" />
   </course-control>
   <leg id="1" start-control="8" end-control="15">
     <gaps>
