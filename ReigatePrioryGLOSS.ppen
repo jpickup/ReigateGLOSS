@@ -148,7 +148,7 @@
   </control>
   <control id="34" kind="normal">
     <code>123</code>
-    <location x="2.83200884" y="0.8827051" />
+    <location x="2.111855" y="-0.797646165" />
     <description box="D" iof-2004-ref="4.7" />
   </control>
   <control id="29" kind="normal">
