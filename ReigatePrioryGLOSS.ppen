@@ -228,14 +228,14 @@
     <labels label-kind="sequence" />
     <first course-control="1" />
     <print-area automatic="true" restrict-to-page-size="true" left="-170.286133" top="44.30899" right="112.415863" bottom="-151.525009" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
-    <options print-scale="5000" climb="160" description-kind="symbols" />
+    <options print-scale="5000" climb="140" description-kind="symbols" />
   </course>
   <course id="2" kind="normal" order="2">
     <name>GLOSS Extension</name>
     <labels label-kind="sequence" />
     <first course-control="45" control-number="18" />
     <print-area automatic="true" restrict-to-page-size="true" left="-180.814468" top="44.30899" right="101.887527" bottom="-151.525009" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
-    <options print-scale="5000" climb="60" description-kind="symbols" />
+    <options print-scale="5000" climb="100" description-kind="symbols" />
   </course>
   <course id="3" kind="normal" order="3">
     <name>Yellow</name>
