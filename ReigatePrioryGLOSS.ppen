@@ -53,6 +53,7 @@
     <code>188</code>
     <location x="-8.377911" y="-111.315117" />
     <description box="D" iof-2004-ref="6.1" />
+    <description box="F">Seat</description>
   </control>
   <control id="9" kind="normal">
     <code>186</code>
@@ -114,7 +115,7 @@
     <code>198</code>
     <location x="85.62243" y="-21.8951836" />
     <description box="D" iof-2004-ref="6.1" />
-    <description box="F">Bench</description>
+    <description box="F">Seat</description>
   </control>
   <control id="28" kind="normal">
     <code>200</code>
@@ -181,7 +182,7 @@
   </control>
   <control id="37" kind="normal">
     <code>194</code>
-    <location x="85.08939" y="-89.4687958" />
+    <location x="78.96673" y="-100.810425" />
     <description box="D" iof-2004-ref="5.2" />
     <description box="E" iof-2004-ref="5.2" />
     <description box="F" iof-2004-ref="10.2" />
@@ -190,7 +191,7 @@
     <code>199</code>
     <location x="58.7402725" y="-127.467484" />
     <description box="D" iof-2004-ref="6.1" />
-    <description box="F">Bench</description>
+    <description box="F">Seat</description>
   </control>
   <control id="39" kind="normal">
     <code>211</code>
@@ -203,11 +204,14 @@
     <code>212</code>
     <location x="78.0947647" y="-46.5684967" />
     <description box="D" iof-2004-ref="6.1" />
+    <description box="F">Seat</description>
   </control>
   <control id="42" kind="normal">
     <code>213</code>
     <location x="-56.8609924" y="-120.977516" />
     <description box="D" iof-2004-ref="6.1" />
+    <description box="E" iof-2004-ref="8.11" />
+    <description box="F">Seat</description>
   </control>
   <control id="43" kind="normal">
     <code>214</code>
@@ -243,6 +247,13 @@
     <first course-control="35" />
     <print-area automatic="true" restrict-to-page-size="true" left="-166.947052" top="44.30899" right="115.754944" bottom="-151.525009" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
     <options print-scale="5000" climb="45" description-kind="text" />
+  </course>
+  <course id="4" kind="normal" order="4">
+    <name>GLOSS+Extension</name>
+    <labels label-kind="sequence" />
+    <first course-control="72" />
+    <print-area automatic="true" restrict-to-page-size="true" left="-166.947052" top="44.30899" right="115.754944" bottom="-151.525009" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
+    <options print-scale="5000" description-kind="symbols" />
   </course>
   <course-control id="1" control="1">
     <next course-control="3" />
@@ -369,6 +380,91 @@
   </course-control>
   <course-control id="69" control="42">
     <next course-control="12" />
+  </course-control>
+  <course-control id="72" control="1">
+    <next course-control="74" />
+  </course-control>
+  <course-control id="73" control="2" />
+  <course-control id="74" control="3">
+    <next course-control="75" />
+  </course-control>
+  <course-control id="75" control="4">
+    <next course-control="82" />
+  </course-control>
+  <course-control id="82" control="6">
+    <next course-control="77" />
+  </course-control>
+  <course-control id="77" control="19">
+    <next course-control="78" />
+  </course-control>
+  <course-control id="78" control="9">
+    <next course-control="79" />
+  </course-control>
+  <course-control id="79" control="10">
+    <next course-control="80" />
+  </course-control>
+  <course-control id="80" control="8">
+    <next course-control="88" />
+  </course-control>
+  <course-control id="88" control="15">
+    <next course-control="83" />
+  </course-control>
+  <course-control id="83" control="42">
+    <next course-control="93" />
+  </course-control>
+  <course-control id="93" control="13">
+    <next course-control="85" />
+  </course-control>
+  <course-control id="85" control="12">
+    <next course-control="89" />
+  </course-control>
+  <course-control id="89" control="35">
+    <next course-control="90" />
+  </course-control>
+  <course-control id="90" control="14">
+    <next course-control="91" />
+  </course-control>
+  <course-control id="91" control="17">
+    <next course-control="92" />
+  </course-control>
+  <course-control id="92" control="44">
+    <next course-control="94" />
+  </course-control>
+  <course-control id="94" control="7">
+    <next course-control="95" />
+  </course-control>
+  <course-control id="95" control="36">
+    <next course-control="96" />
+  </course-control>
+  <course-control id="96" control="28">
+    <next course-control="97" />
+  </course-control>
+  <course-control id="97" control="23">
+    <next course-control="98" />
+  </course-control>
+  <course-control id="98" control="7">
+    <next course-control="99" />
+  </course-control>
+  <course-control id="99" control="34">
+    <next course-control="100" />
+  </course-control>
+  <course-control id="100" control="29">
+    <next course-control="101" />
+  </course-control>
+  <course-control id="101" control="30">
+    <next course-control="102" />
+  </course-control>
+  <course-control id="102" control="11">
+    <next course-control="103" />
+  </course-control>
+  <course-control id="103" control="31">
+    <next course-control="104" />
+  </course-control>
+  <course-control id="104" control="32">
+    <next course-control="106" />
+  </course-control>
+  <course-control id="106" control="41">
+    <next course-control="73" />
   </course-control>
   <leg id="1" start-control="8" end-control="15">
     <gaps>

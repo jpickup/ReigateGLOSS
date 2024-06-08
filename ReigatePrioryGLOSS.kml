@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"    
+     xmlns:atom="http://www.w3.org/2005/Atom">
+    <Document>
+        <name>ReigatePrioryGLOSS.gpx</name>
+        
+                                <atom:link href="http://purple-pen.org"/>
+            
+                            <TimeStamp>
+                <when>2024-05-23T19:48:29Z</when>
+            </TimeStamp> 
+            
+                
+        <description><![CDATA[<br/><p>Reigate Priory GLOSS 2024 </p><p><br/>Converted using <b><a href='http://gpx2kml.com' title='Go to gpx2kml.com'>gpx2kml.com</a></b></p><br/>]]></description>
+        <visibility>1</visibility>
+        <open>1</open>
+        
+                <Style id="red">
+            <LineStyle>
+            <color>C81400FF</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_red">
+            <LineStyle>
+            <color>961400FF</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="green">
+            <LineStyle>
+            <color>C878FF00</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_green">
+            <LineStyle>
+            <color>9678FF00</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="blue">
+            <LineStyle>
+            <color>C8FF7800</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_blue">
+            <LineStyle>
+            <color>96FF7800</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="cyan">
+            <LineStyle>
+            <color>C8F0FF14</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_cyan">
+            <LineStyle>
+            <color>96F0FF14</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="orange">
+            <LineStyle>
+            <color>C81478FF</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_orange">
+            <LineStyle>
+            <color>961478FF</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="dark_green">
+            <LineStyle>
+            <color>C8008C14</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_dark_green">
+            <LineStyle>
+            <color>96008C14</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="purple">
+            <LineStyle>
+            <color>C8FF7878</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_purple">
+            <LineStyle>
+            <color>96FF7878</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="pink">
+            <LineStyle>
+            <color>C8A078F0</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_pink">
+            <LineStyle>
+            <color>96A078F0</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="brown">
+            <LineStyle>
+            <color>C8143C96</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_brown">
+            <LineStyle>
+            <color>96143C96</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="dark_blue">
+            <LineStyle>
+            <color>C8F01414</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_dark_blue">
+            <LineStyle>
+            <color>96F01414</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        
+                
+        <Folder>
+            <name>Waypoints</name>
+            <description>A list of waypoints</description>
+            <visibility>1</visibility>
+            <open>0</open>
+                                                                                
+            
+            <Placemark>
+                <name>STA1</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.20705038448191004</longitude>
+                    <latitude>51.234441668009794</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.20705038448191004,51.234441668009794                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>101</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.20357586051698515</longitude>
+                    <latitude>51.232506266810041</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.20357586051698515,51.232506266810041                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>102</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.20510322132155537</longitude>
+                    <latitude>51.232242076984491</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.20510322132155537,51.232242076984491                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>103</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.20843692079868592</longitude>
+                    <latitude>51.230368971229595</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.20843692079868592,51.230368971229595                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>104</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.20838759554278846</longitude>
+                    <latitude>51.232100559172814</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.20838759554278846,51.232100559172814                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>105</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.20949020624171572</longitude>
+                    <latitude>51.232749169901375</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.20949020624171572,51.232749169901375                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>106</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.21154993842463721</longitude>
+                    <latitude>51.230499236987349</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.21154993842463721,51.230499236987349                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>107</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.20839835217227909</longitude>
+                    <latitude>51.229394601450217</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.20839835217227909,51.229394601450217                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>108</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.21031496415296616</longitude>
+                    <latitude>51.229891014274557</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.21031496415296616,51.229891014274557                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>109</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.21460994790849516</longitude>
+                    <latitude>51.229662000265947</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.21460994790849516,51.229662000265947                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>110</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.21820403039518027</longitude>
+                    <latitude>51.229995799411064</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.21820403039518027,51.229995799411064                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>111</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.21743138569916978</longitude>
+                    <latitude>51.23038211568737</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.21743138569916978,51.23038211568737                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>112</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.21636405939484915</longitude>
+                    <latitude>51.231601566853</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.21636405939484915,51.231601566853                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>113</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.21249885897043413</longitude>
+                    <latitude>51.231386056330848</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.21249885897043413,51.231386056330848                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>115</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.21481633030743041</longitude>
+                    <latitude>51.233191595499456</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.21481633030743041,51.233191595499456                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>116</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.21109179489903662</longitude>
+                    <latitude>51.233543723801404</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.21109179489903662,51.233543723801404                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>117</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.20787664605344117</longitude>
+                    <latitude>51.230202677267066</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.20787664605344117,51.230202677267066                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>118</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.20477548441149768</longitude>
+                    <latitude>51.234485755769981</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.20477548441149768,51.234485755769981                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>120</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.20789221018585177</longitude>
+                    <latitude>51.234238946431752</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.20789221018585177,51.234238946431752                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>121</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.20711377557274416</longitude>
+                    <latitude>51.233018038849195</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.20711377557274416,51.233018038849195                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>125</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.2186186763145021</longitude>
+                    <latitude>51.231649146053549</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.2186186763145021,51.231649146053549                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>122</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.21152886645403043</longitude>
+                    <latitude>51.2346213245305</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.21152886645403043,51.2346213245305                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>124</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.20858602035196502</longitude>
+                    <latitude>51.233219623245716</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.20858602035196502,51.233219623245716                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>123</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.21069198751224924</longitude>
+                    <latitude>51.235539024113777</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.21069198751224924,51.235539024113777                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>126</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.21277557007654163</longitude>
+                    <latitude>51.232827676050874</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.21277557007654163,51.232827676050874                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>127</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.21507905860795276</longitude>
+                    <latitude>51.231614295021963</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.21507905860795276,51.231614295021963                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>128</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.21272107880928345</longitude>
+                    <latitude>51.230047167815812</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.21272107880928345,51.230047167815812                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>129</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.2089405314524434</longitude>
+                    <latitude>51.231294071530314</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.2089405314524434,51.231294071530314                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>130</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.20851295679652385</longitude>
+                    <latitude>51.234358472876188</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.20851295679652385,51.234358472876188                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>114</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.20484735730346804</longitude>
+                    <latitude>51.231452111749185</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.20484735730346804,51.231452111749185                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>119</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.20661126736325419</longitude>
+                    <latitude>51.229593448297059</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.20661126736325419,51.229593448297059                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>131</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.20688564343173302</longitude>
+                    <latitude>51.231300315408191</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.20688564343173302,51.231300315408191                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>132</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.20532673565893175</longitude>
+                    <latitude>51.23338265598553</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.20532673565893175,51.23338265598553                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>133</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.21502575874452606</longitude>
+                    <latitude>51.230079863074486</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.21502575874452606,51.230079863074486                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>134</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.20390466273796656</longitude>
+                    <latitude>51.232784743670429</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.20390466273796656,51.232784743670429                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>135</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.2116030987982789</longitude>
+                    <latitude>51.234094718028821</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.2116030987982789,51.234094718028821                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>FIN1</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>-0.20789494754982477</longitude>
+                    <latitude>51.2342444686075</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        -0.20789494754982477,51.2342444686075                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                            
+        </Folder>
+        
+                
+                
+        <LookAt>
+            <longitude>-0.21109726841574</longitude>            
+            <latitude>51.232466812782</latitude>             
+            <altitude>0</altitude>               
+            <heading>0</heading>               
+            <tilt>45</tilt>
+            <range>580</range>                    
+            <altitudeMode>clampToGround</altitudeMode> 
+        </LookAt>
+    </Document>
+</kml>
