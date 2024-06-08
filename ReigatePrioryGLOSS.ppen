@@ -4,7 +4,7 @@
     <map kind="OCAD" scale="5000" ignore-missing-fonts="false" absolute-path="Y:\Reigate Priory GLOSS 2024\Reigate Priory Park 220131 Rev F .ocd">Reigate Priory Park 220131 Rev F .ocd</map>
     <standards map="2017" description="2018" />
     <all-controls print-scale="5000" description-kind="symbols" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-166.947052" top="44.30899" right="115.754944" bottom="-151.525009" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
+    <print-area automatic="false" restrict-to-page-size="true" left="-171.3799" top="49.2219849" right="115.386124" bottom="-150.676025" page-width="827" page-height="1169" page-margins="20" page-landscape="true" />
     <numbering start="31" disallow-invertible="false" />
     <punch-card rows="3" columns="8" left-to-right="true" top-to-bottom="false" />
     <course-appearance scale-sizes="RelativeToMap" scale-sizes-circle-gaps="true" auto-leg-gap-size="3.5" blend-purple="true" />
@@ -231,28 +231,28 @@
     <name>GLOSS</name>
     <labels label-kind="sequence" />
     <first course-control="1" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-170.286133" top="44.30899" right="112.415863" bottom="-151.525009" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
+    <print-area automatic="false" restrict-to-page-size="true" left="-171.3799" top="49.2219849" right="115.386124" bottom="-150.676025" page-width="827" page-height="1169" page-margins="20" page-landscape="true" />
     <options print-scale="5000" climb="140" description-kind="symbols" />
   </course>
   <course id="2" kind="normal" order="2">
     <name>GLOSS Extension</name>
     <labels label-kind="sequence" />
     <first course-control="45" control-number="18" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-180.814468" top="44.30899" right="101.887527" bottom="-151.525009" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
+    <print-area automatic="false" restrict-to-page-size="true" left="-171.3799" top="49.2219849" right="115.386124" bottom="-150.676025" page-width="827" page-height="1169" page-margins="20" page-landscape="true" />
     <options print-scale="5000" climb="100" description-kind="symbols" />
   </course>
   <course id="3" kind="normal" order="3">
     <name>Yellow</name>
     <labels label-kind="sequence" />
     <first course-control="35" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-166.947052" top="44.30899" right="115.754944" bottom="-151.525009" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
+    <print-area automatic="false" restrict-to-page-size="true" left="-171.3799" top="49.2219849" right="115.386124" bottom="-150.676025" page-width="827" page-height="1169" page-margins="20" page-landscape="true" />
     <options print-scale="5000" climb="45" description-kind="text" />
   </course>
   <course id="4" kind="normal" order="4">
     <name>GLOSS+Extension</name>
     <labels label-kind="sequence" />
     <first course-control="72" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-166.947052" top="44.30899" right="115.754944" bottom="-151.525009" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
+    <print-area automatic="false" restrict-to-page-size="true" left="-171.3799" top="49.2219849" right="115.386124" bottom="-150.676025" page-width="827" page-height="1169" page-margins="20" page-landscape="true" />
     <options print-scale="5000" description-kind="symbols" />
   </course>
   <course-control id="1" control="1">
@@ -506,5 +506,21 @@
     <courses>
       <course course="2" />
     </courses>
+  </special-object>
+  <special-object id="7" kind="text">
+    <text>GLOSS</text>
+    <font name="Roboto" bold="true" italic="false" />
+    <appearance color="purple" />
+    <location x="-93.12769" y="47.9051" />
+    <location x="-40.1503" y="32.3787155" />
+    <courses all="true" />
+  </special-object>
+  <special-object id="6" kind="text">
+    <text>Event No. 83859</text>
+    <font name="Roboto" bold="true" italic="false" />
+    <appearance color="1.00,0.00,0.00,0.00" />
+    <location x="63.02948" y="-139.196457" />
+    <location x="110.310707" y="-146.437271" />
+    <courses all="true" />
   </special-object>
 </course-scribe-event>
