@@ -311,7 +311,7 @@
     <next course-control="71" />
   </course-control>
   <course-control id="64" control="36">
-    <next course-control="2" />
+    <next course-control="107" />
   </course-control>
   <course-control id="70" control="11">
     <next course-control="48" />
@@ -466,6 +466,9 @@
   <course-control id="106" control="41">
     <next course-control="73" />
   </course-control>
+  <course-control id="107" control="28">
+    <next course-control="2" />
+  </course-control>
   <leg id="1" start-control="8" end-control="15">
     <gaps>
       <gap start="7.909261" length="7.679933" />
@@ -507,20 +510,36 @@
       <course course="2" />
     </courses>
   </special-object>
-  <special-object id="7" kind="text">
-    <text>GLOSS</text>
-    <font name="Roboto" bold="true" italic="false" />
-    <appearance color="purple" />
-    <location x="-93.12769" y="47.9051" />
-    <location x="-40.1503" y="32.3787155" />
-    <courses all="true" />
-  </special-object>
   <special-object id="6" kind="text">
     <text>Event No. 83859</text>
     <font name="Roboto" bold="true" italic="false" />
     <appearance color="1.00,0.00,0.00,0.00" />
-    <location x="63.02948" y="-139.196457" />
-    <location x="110.310707" y="-146.437271" />
+    <location x="64.9501343" y="-139.516586" />
+    <location x="112.231361" y="-146.7574" />
+    <courses all="true" />
+  </special-object>
+  <special-object id="11" kind="text">
+    <text>Courses close at 13:45</text>
+    <font name="Roboto" bold="true" italic="false" />
+    <appearance color="1.00,0.00,0.00,0.00" />
+    <location x="-94.72469" y="-7.313941" />
+    <location x="-49.2699127" y="-14.3573914" />
+    <courses all="true" />
+  </special-object>
+  <special-object id="12" kind="text">
+    <text>Emergency tel. 07890189962</text>
+    <font name="Roboto" bold="true" italic="false" />
+    <appearance color="0.00,1.00,1.00,0.00" />
+    <location x="-106.409233" y="-0.111533165" />
+    <location x="-39.6670532" y="-9.71587" />
+    <courses all="true" />
+  </special-object>
+  <special-object id="13" kind="text">
+    <text>GLOSS</text>
+    <font name="Roboto" bold="true" italic="false" />
+    <appearance color="0.71,0.09,0.00,0.00" />
+    <location x="-90.40715" y="46.94466" />
+    <location x="-43.8292542" y="33.17854" />
     <courses all="true" />
   </special-object>
 </course-scribe-event>
