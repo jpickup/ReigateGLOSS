@@ -1,7 +1,7 @@
 ﻿<course-scribe-event>
   <event id="1">
     <title>Reigate Priory GLOSS 2024</title>
-    <map kind="OCAD" scale="5000" ignore-missing-fonts="false" absolute-path="Y:\Reigate Priory GLOSS 2024\Reigate Priory Park 220131 Rev F .ocd">Reigate Priory Park 220131 Rev F .ocd</map>
+    <map kind="OCAD" scale="5000" ignore-missing-fonts="false" absolute-path="C:\OCADWIN\ReigatePrioryPark\Reigate Priory Park 220131 Rev F .ocd">Reigate Priory Park 220131 Rev F .ocd</map>
     <standards map="2017" description="2018" />
     <all-controls print-scale="5000" description-kind="symbols" />
     <print-area automatic="false" restrict-to-page-size="true" left="-171.3799" top="49.2219849" right="115.386124" bottom="-150.676025" page-width="827" page-height="1169" page-margins="20" page-landscape="true" />
@@ -59,6 +59,7 @@
     <code>186</code>
     <location x="35.81057" y="-135.584946" />
     <description box="D" iof-2004-ref="4.10" />
+    <description box="G" iof-2004-ref="11.1S" />
   </control>
   <control id="10" kind="normal">
     <code>187</code>
@@ -110,6 +111,7 @@
     <code>197</code>
     <location x="43.85299" y="-117.477959" />
     <description box="D" iof-2004-ref="1.3" />
+    <description box="E" iof-2004-ref="8.2" />
   </control>
   <control id="20" kind="normal">
     <code>198</code>
@@ -121,6 +123,7 @@
     <code>200</code>
     <location x="42.1328545" y="-27.768486" />
     <description box="D" iof-2004-ref="6.2" />
+    <description-text-line location="before">Gloss -- Punch at Finish|Extension -- Punch control 200</description-text-line>
   </control>
   <control id="23" kind="normal">
     <code>201</code>
@@ -178,6 +181,7 @@
     <code>210</code>
     <location x="33.4451561" y="-25.1695728" />
     <description box="D" iof-2004-ref="4.6" />
+    <description box="F" iof-2004-ref="11.7" />
     <description box="G" iof-2004-ref="11.5SW" />
   </control>
   <control id="37" kind="normal">
@@ -436,7 +440,7 @@
   <course-control id="95" control="36">
     <next course-control="96" />
   </course-control>
-  <course-control id="96" control="28">
+  <course-control id="96" control="28" map-exchange="true" map-flip="true">
     <next course-control="97" />
   </course-control>
   <course-control id="97" control="23">
@@ -473,11 +477,6 @@
     <gaps>
       <gap start="7.909261" length="7.679933" />
     </gaps>
-  </leg>
-  <leg id="8" start-control="43" end-control="3">
-    <bends>
-      <location x="101.547241" y="-62.8935242" />
-    </bends>
   </leg>
   <special-object id="1" kind="descriptions">
     <appearance columns="2" />
@@ -541,5 +540,26 @@
     <location x="-90.40715" y="46.94466" />
     <location x="-43.8292542" y="33.17854" />
     <courses all="true" />
+  </special-object>
+  <special-object id="14" kind="descriptions">
+    <location x="-167.768021" y="28.31665" />
+    <location x="-162.6481" y="28.31665" />
+    <courses>
+      <course course="4" part="0" />
+    </courses>
+  </special-object>
+  <special-object id="15" kind="descriptions">
+    <location x="-168.031342" y="15.6765137" />
+    <location x="-161.959473" y="15.6765137" />
+    <courses>
+      <course course="4" part="1" />
+    </courses>
+  </special-object>
+  <special-object id="16" kind="descriptions">
+    <location x="-162.764847" y="42.2734222" />
+    <location x="-158.714478" y="42.2734222" />
+    <courses>
+      <course course="0" />
+    </courses>
   </special-object>
 </course-scribe-event>
